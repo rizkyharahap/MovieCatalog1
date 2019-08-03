@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="text_movie">Movie 1</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_year">year</string>
+    <string name="text_header">Whats New</string>
+    <string name="txt_rating">90</string>
+    <string name="thumbnail_description">Description :</string>
+    <string name="year_thumbnail">Year :</string>
+    <string name="movie_image_description">movie_image</string>
+    <string name="spacing">:</string>
+    <string name="release_date_thumbnail">Release Date</string>
+    <string name="release_date">release_date</string>
+    <string name="duration_thumbnail">Duration</string>
+    <string name="duration">duratuon</string>
+    <string name="genre">genre</string>
+    <string name="genre_thumbnail">Genre</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_vertical">16dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="margin_start">26dp</dimen>
+    <dimen name="margin_top_desc">50dp</dimen>
+    <dimen name="lineHeight">4dp</dimen>
+    <dimen name="spacing">6dp</dimen>
+</resources>
